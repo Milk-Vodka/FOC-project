@@ -1,0 +1,18 @@
+# Compiled files
+*.exe
+*.obj
+*.o
+
+# Debug files
+*.pdb
+*.ilk
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Build folders
+Debug/
+Release/
+output/
